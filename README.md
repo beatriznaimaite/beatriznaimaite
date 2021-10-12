@@ -1,9 +1,9 @@
 <h1 align="left">Hello! My name is Beatriz</h1>
 
 <h2 align="left"> 
-<p> 🌱 I'm an agronomist;</p>
-<p> 🌎 who works with geoprocessing;</p>
-<p> 💻 a data science enthusiast </p> 
+<p> 🌱 I'm an agronomist </p>
+<p> 🌎 who works with geoprocessing </p>
+<p> 💻 and a data science enthusiast </p> 
 </h2>
 
 <h3 align="left">Connect with me:</h3>
